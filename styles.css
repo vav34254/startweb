@@ -5,13 +5,20 @@ body{
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
-    border-left: 10px solid rgb(10%,20%,70%);
+    border-left: 3px solid rgb(0%,0%,0%);
     box-sizing: border-box;
     
+}
+h1{display:inline-block;
+    
+}
+nav{
+ display: inline-block;
 }
 ul{
     
 }
+
 li{
     display: inline-block;
 }
@@ -19,13 +26,13 @@ nav li a {
     display:block;
     padding:7px;
     margin:7px;
-    background-color: blue;
+    background-color: black;
     color: white;
     text-decoration: none;
     border-radius:7px;
 }
 nav li a:hove {
     color:white;
-    background-color:blue;
+    background-color:black;
     
 }
