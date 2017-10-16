@@ -36,3 +36,24 @@ nav li a:hove {
     background-color:black;
     
 }
+textb{
+color:white;
+}
+obrazekf{
+margin-left: 200px;
+}
+
+
+.ico {
+    color:white;
+    
+}
+
+.ico a{
+    vertical-align:top;
+    padding:25px;
+    display:inline-block;
+    color:white;
+    width: 165px;
+    text-decoration:none;
+}
